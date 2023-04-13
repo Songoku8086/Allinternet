@@ -1496,7 +1496,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 //K+ Kids //FHD
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
+#EXTINF:-1 tvg-id="kkidshd" group-title="Keo" tvg-logo="https://i.imgur.com/qRkelUM.png", K+ Kids
 EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey

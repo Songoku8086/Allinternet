@@ -1452,36 +1452,19 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20024/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/20089/index.m3u8
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD 360
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD 360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=1679405479~acl=/*~hmac=ede08a28f01588514705d06a50200e65d52b78c7b432583437206d7cd381c30a&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD 360
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD 360
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae
 
-//© Copyright Phạm Sáng
-#EXTINF:-1 tvg-id="klive1hd" group-title = "© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/X4gTMP2.png",© Copyright Phạm Sáng
-//K+ Live 1 //HD
-#EXTINF:-1 tvg-id="klive1hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97251b767c404371a0cf0cf25fffdf36:766a7aa6b9abe109623b3ce0824ba98d
-https://sglive.akamaized.net/bpk-tv/prod_klive1/default/index.mpd
-//K+ Live 2 //HD
-#EXTINF:-1 tvg-id="klive2hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41749d3c05f94cecaa98df2b315ad309:7439dee8a67ad81f99b68d7c7bfa79d2
-https://sglivecdn.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
-//K+ Live 3 // HD
-#EXTINF:-1 tvg-id="klive3hd" group-title="© Copyright Phạm Sáng" tvg-logo="https://i.imgur.com/vjeWmgy.png", K+ Live 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dc1da9c615d46e195b5ec8691507887:8e1c2aaa4ff12f48e783210331e0a0b9
-https://sglivecdn.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 
 //K+ Sport 1//FHD
 #EXTINF:-1 tvg-id="ksports1hd" group-title="K+" tvg-logo="https://i.imgur.com/LMcFALm.png", K+ Sports 1

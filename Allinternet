@@ -1500,5 +1500,5 @@ EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g5N8Hz1W5id0QmFut6Z5Qg", "kid":"Ndx4EA0805Joygp4DadkSg" },{ "kty":"oct", "k":"g5N8Hz1W5id0QmFut6Z5Qg", "kid":"Ndx4EA0805Joygp4DadkSg" },{ "kty":"oct", "k":"lphS4PGG1qmekA+3Ku+qGw", "kid":"9Ic0x74805Joygp4DadkSg" },{ "kty":"oct", "k":"+y4wjFFiMUm++tP+zNbsQw", "kid":"PMs0x74805Joygp4DadkSg" }], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd 
 

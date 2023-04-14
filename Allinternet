@@ -371,9 +371,10 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
 #---Giải Trí---#
-
+#EXTINF:-1 group-title="🎞| Giải trí" tvg-logo="https://i.imgur.com/iuGGPYy.png",Pladio
+http://vnesech2.duckdns.org:4022/udp/225.1.2.244:30120
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="🎞| Giải trí",▶️| HBO
-http://103.56.160.133:8081/hbo
+http://vnesech2.duckdns.org:4022/udp/225.1.4.90:30120
 
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/ss7qbgg/Cinema-World-cc.png" group-title="🎞| Giải trí",▶️| Cinema World
 http://cdn-cf.vthanhtivi.pw/fptplay/cinemaworld/bitrate_5000.m3u8

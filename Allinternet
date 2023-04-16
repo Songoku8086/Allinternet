@@ -483,7 +483,8 @@ http://cdn-cf.vthanhtivi.pw/fptplay/travel-living/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="fashionhd" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/XL02Bpx/pngwing-com.png" group-title="🎞| Giải trí",▶️| Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="fashionmidnightsecrets.fr" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="🎞| Giải trí",▶️| Fashion TV Midnight Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
 
 #-*--Music-*--#
 
@@ -671,7 +672,7 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="🌏| 4K 🇺 🇭 🇩",Sky Sports Main Event ⁴ᴷ
 http://rogermellie.xyz:80/richay/richay/1042160
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportmainevent.uk" tvg-name="EPL 4K ULTRA HDR SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/500px-Sky_Sports_logo_2020.svg.png" group-title="🌏| 4K 🇺 🇭 🇩",EPL 4K ULTRA HDR SKY SPORTS
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="EPL 4K ULTRA HDR SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/500px-Sky_Sports_logo_2020.svg.png" group-title="🌏| 4K 🇺 🇭 🇩",EPL 4K ULTRA HDR SKY SPORTS
 http://raw.bitnode.pm:81/giorgi/giorgi/1227372
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 4K ULTRA HDR ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png" group-title="🌏| 4K 🇺 🇭 🇩",EPL 4K ULTRA HDR ASTRO
 http://raw.bitnode.pm:81/giorgi/giorgi/1124635
